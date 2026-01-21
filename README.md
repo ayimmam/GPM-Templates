@@ -1,4 +1,4 @@
-# Google Project Management Certificate Templates (Curated & Portfolio-Ready)
+# Google Project Management Certificate Templates - 2026
 
 Hi, this is Anteneh. Here's a list of useful templates I keep using from the **Google Project Management Professional Certificate (Coursera)**.  
 
@@ -38,9 +38,9 @@ All templates are compatible with **Google Docs, Google Sheets, and Google Slide
 |--------------|-------------------|
 | Initiation | Project Charter, Stakeholder Analysis Matrix |
 | Planning | Project Plan, RACI Matrix, Risk Register, Communication Plan |
-| Execution | Project Status Reports, Change Request Log |
+| Execution | Project Status Reports |
 | Monitoring & Control | KPI Tracking, Issue Log |
-| Closure | Closeout Report, Lessons Learned Register |
+| Closure | Closeout Report, Post Implementation Review |
 
 This lifecycle structure mirrors how **entry-level project managers** are expected to document projects in real organizations.
 
@@ -150,7 +150,7 @@ Captures:
 
 Critical for scope control and auditability.
 
-Format: Google Sheets
+Format: Google Docs
 
 ---
 
@@ -174,7 +174,7 @@ Format: Google Docs
 
 ---
 
-#### Lessons Learned Register
+#### Post Implementation Review
 Supports:
 - Continuous improvement
 - Organizational learning
