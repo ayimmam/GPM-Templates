@@ -18,7 +18,7 @@ Summarizes:
 - Ownership handoff
 
 Link:
-- [Google Docs]([https://docs.google.com/document/d/1otLB3HeAmVAQJlITUV3m4qgT_zwsyNwpqWIYBnHSgQ8/template/preview](https://docs.google.com/document/d/1f77CaiYA5Bdc5uoBpgfFa2u-prFVGKvNLSZiYIBKAUE/template/preview))
+- [Google Docs](https://docs.google.com/document/d/1f77CaiYA5Bdc5uoBpgfFa2u-prFVGKvNLSZiYIBKAUE/template/preview)
 
 ---
 
